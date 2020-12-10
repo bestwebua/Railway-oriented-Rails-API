@@ -2,7 +2,7 @@
 
 ## Boilerplate features
 
-Project wiki: https://github.com/rubygarage/boilerplate/wiki
+Project wiki: https://github.com/bestwebua/Railway-oriented-Rails-API/wiki
 
 ### Handling JSON API URI query with Trailblazer nested operations
 
