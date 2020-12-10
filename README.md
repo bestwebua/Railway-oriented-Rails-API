@@ -1,4 +1,4 @@
-# Boilerplate Rails API
+# Railway oriented Rails API example
 
 ## Boilerplate features
 
